@@ -1,0 +1,4 @@
+Flask
+bottle
+urllib3
+https://github.com/mongodb/mongo-python-driver/archive/2.8rc2.tar.gz
